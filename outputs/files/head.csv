@@ -1,0 +1,27 @@
+,0,1,2,3,4
+[Candidate] ID,01b7a5 ,04bb34 ,0b2569 ,0c59a8 ,0f955f 
+[Candidate] Hired,Yes,Yes,Yes,Yes,Yes
+[Candidate] Overall,64.3444,78.056,69.34440000000001,55.278,83.42
+[AWS] EC2,87.5,100.0,87.5,87.5,100.0
+[AWS] S3: Arch,100.0,100.0,50.0,0.0,100.0
+[AWS] S3: Access,50.0,50.0,50.0,100.0,100.0
+[AWS] S3: Clasess,50.0,100.0,0.0,100.0,50.0
+[AWS] S3: DR,50.0,100.0,50.0,50.0,100.0
+[AWS] IAM,0.0,40.0,80.0,40.0,80.0
+[AWS] Networking,100.0,100.0,100.0,87.5,100.0
+[AWS] Net. App. Reliability,100.0,100.0,100.0,25.0,87.5
+[TF] Configuration drifts,50.0,,100.0,,
+[TF] Use of count & for_each,0.0,,100.0,,
+[TF] Environments,100.0,,100.0,,
+[TF] Managing resources,60.0,,80.0,,
+[TF] Process,100.0,,100.0,,
+[TF] Secrets and States,33.33,,0.0,,
+[TF] Sensitive information,75.0,,75.0,,
+[TF] Best practices,75.0,,50.0,,
+[TF] Managing values,100.0,,80.0,,
+[K8] Architecture: Auto Scaling,50.0,,25.0,,75.0
+[K8] Architecture: Control Plane,50.0,,25.0,,75.0
+[K8] Core Concepts,50.0,,100.0,,100.0
+[K8] Services & Networking: Ingress,50.0,,100.0,,75.0
+[K8] Services & Networking: Service,100.0,,100.0,,100.0
+[K8] Workload Management,100.0,,100.0,,100.0
