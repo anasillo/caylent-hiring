@@ -2,3 +2,5 @@ mlflow
 pandas
 numpy
 sklearn
+matplotlib
+sns
