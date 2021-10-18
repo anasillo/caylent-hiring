@@ -131,4 +131,5 @@ dmypy.json
 # Folders and garbage
 data/
 examples/
+**/mlruns
 **/.DS_Store
